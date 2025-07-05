@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Aakaash</h1>
 <h3 align="center">Constantly finding ways to hack into your device!!! But really, I’m just mostly learning web development and exploring new tools to come up with cool UI/UX ideas 😄</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
